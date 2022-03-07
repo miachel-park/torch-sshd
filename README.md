@@ -1,4 +1,4 @@
-# torch-sshd
+# pytorch-sshd
 
 Dockerized PyTorch deep learning framework running SSH service, built on top of pytorch/pytorch:1.8.1-cuda11.1-cudnn8-devel
 
@@ -7,6 +7,7 @@ Dockerized PyTorch deep learning framework running SSH service, built on top of 
 * OpenSSH_7.6p1 Ubuntu-4ubuntu0.6, OpenSSL 1.0.2n
 * git version 2.17.1
 * VIM - Vi IMproved 8.0
+* GNU Emacs 25.2.2
 * Python packages
   * backcall               0.2.0
   * beautifulsoup4         4.9.3
