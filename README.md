@@ -103,3 +103,8 @@ vscode SSH Configuration File 접속정보 추가
 
 vscode Connect Current Window to Host 클릭
 
+## TODO
+
+* 최신 버전의 pytorch, cuda 이미지 작성
+* Docker volume 생성 및 container에 bind 하는 방법
+* supervisord를 이용해 container에 1
